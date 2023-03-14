@@ -1,0 +1,41 @@
+body {
+background-color: bisque;
+display: flex;
+flex-direction: column;
+margin: 5px 10vw;
+}
+
+a {
+    margin: 15px;
+    text-decoration: none;
+    text-align: center;
+}
+span {
+    background-color: rgb(181, 122, 46);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px 30px;
+
+}
+
+#img {
+    /* height: 95vh; */
+    width: 73vw;
+    
+}
+
+ul, p {
+    font-size: xx-large;
+    color: rgb(219, 34, 34);
+    font-weight: bolder;
+}
+
+h1, h2 {
+ color: rgb(219, 34, 34);
+}
+
+.about-p {
+    font-size: larger;
+    color: rgb(219, 34, 34);
+    font-weight: bolder;
+}
